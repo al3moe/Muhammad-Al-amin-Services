@@ -2,3 +2,24 @@ User-agent: *
 Disallow: 
 Allow: 
 Sitemap: https://al3moe.github.io/Muhammad-Al-amin-Services/sitemap.xml
+User-agent: Mediapartners-Google
+Disallow: /search/label/ 
+Allow:/
+Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+
+User-agent: Googlebot
+Disallow: /search/label/ 
+Allow:/
+Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+
+User-agent: Bingbot
+Disallow: /search/label/ 
+Allow:/
+Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+
+User-agent: *
+Disallow: /search/label/ 
+Allow: /
+Disallow: https://al3moe.github.io/Muhammad-Al-amin-Services/
+
+Sitemap: https://al3moe.github.io/Muhammad-Al-amin-Services/
