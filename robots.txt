@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: 
 Allow: 
 Sitemap: https://al3moe.github.io/Muhammad-Al-amin-Services/sitemap.xml
