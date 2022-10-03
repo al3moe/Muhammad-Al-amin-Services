@@ -1,25 +1,25 @@
 User-agent: *
 Disallow: 
 Allow: 
-Sitemap: https://al3moe.github.io/Muhammad-Al-amin-Services/sitemap.xml
+Sitemap: https://al3moe.github.io/muhammad-al-amin-services/
 User-agent: Mediapartners-Google
 Disallow: /search/label/ 
 Allow:/
-Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+Disallow:https://al3moe.github.io/muhammad-al-amin-services/
 
 User-agent: Googlebot
 Disallow: /search/label/ 
 Allow:/
-Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+Disallow:https://al3moe.github.io/muhammad-al-amin-services/
 
 User-agent: Bingbot
 Disallow: /search/label/ 
 Allow:/
-Disallow:https://al3moe.github.io/Muhammad-Al-amin-Services/
+Disallow:https://al3moe.github.io/muhammad-al-amin-services/
 
 User-agent: *
 Disallow: /search/label/ 
 Allow: /
-Disallow: https://al3moe.github.io/Muhammad-Al-amin-Services/
+Disallow: https://al3moe.github.io/muhammad-al-amin-services/
 
-Sitemap: https://al3moe.github.io/Muhammad-Al-amin-Services/
+Sitemap: https://al3moe.github.io/muhammad-al-amin-services/
