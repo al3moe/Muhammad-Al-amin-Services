@@ -18,7 +18,7 @@ Allow:/
 Disallow:https://al3moe.github.io/muhammad-al-amin-services/
 
 User-agent: *
-Disallow: /search/label/ 
+Disallow: /search/label/  
 Allow: /
 Disallow: https://al3moe.github.io/muhammad-al-amin-services/
 
